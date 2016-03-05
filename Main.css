@@ -1,0 +1,114 @@
+body {
+	background:#d9d9d9;
+	margin:0;
+	padding:0;
+	border:0;
+	}
+hr {
+	background:#000;
+	height:30px;
+	border:0;
+	}
+.Head {
+	font:Calibri;
+	color:#FFF;
+	font-size:24px;
+	text-align:center;
+	display:block;
+	background:#333;
+	margin-left:0;
+	margin-right:0;
+	margin-top:-35px;
+	margin-bottom:-40px;
+	max-width:950px;
+}
+
+ul {
+    list-style-type: none;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+    padding: 0;
+    overflow: hidden;
+    background-color:#000099;
+	min-width:auto;
+	max-width:980px;
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-15px;
+}
+
+li {
+	display:inline-block;
+	float:none;
+	
+}
+
+li a {
+    display: block;
+    color: #006;
+    text-align: center;
+    padding: 14px 16px;
+	min-width:80px;
+    text-decoration: none;
+	font:"calibri";
+	background:#FFF;
+}
+li a.active {
+	background:#1a53ff;
+	color:#FFF;
+}
+
+li a:hover {
+	background-color:#09F;
+}
+.Nav {
+	font:Calibri;
+	color:white;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+	display:block;
+	background-color:#009;
+}
+.Main {
+	font:Calibri;
+	color:#006;
+	font-size:16px;
+	text-align:left;
+	padding:5px;
+	min-width:auto;
+	max-width:950px;
+	min-height:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-18px;
+	margin-bottom:0px;
+	display:block;
+	background-color:#FFFFFF;
+}
+.Footer {
+	font:Calibri;
+	color:#FFF;
+	font-size:10px;
+	text-align:center;
+	margin-left:0;
+	margin-right:0;
+	margin-top:-16px;
+	display:block;
+	height:20px;
+	background-color:#000;
+}
+h1 {
+	margin-left:auto;
+	margin-right:auto;
+}
+a: link {
+	color:#009;
+	}
+a: Hover {
+	color:#09C;
+	}
+a: Visited {
+	color:#00F;
